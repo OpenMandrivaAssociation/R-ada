@@ -7,7 +7,7 @@ Release:          1
 Summary:          Performs boosting algorithms for a binary response
 Group:            Sciences/Mathematics
 License:          GPL
-URL:              None
+URL:              http://cran.r-project.org/web/packages/ada/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/ada/ada_2.0-1.tar.gz
 BuildArch:        noarch
 Requires:         R-core
