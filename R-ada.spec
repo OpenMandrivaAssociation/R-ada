@@ -46,3 +46,38 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.0_2-1
++ Revision: 775013
+- Update to latest version
+
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.0_1-1
++ Revision: 774780
+- Update and rebuild with R2spec
+- Update and rebuild with R2spec
+
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 2.0.1-6mdv2011.0
++ Revision: 616444
+- the mass rebuild of 2010.0 packages
+
+* Tue Sep 08 2009 Thierry Vignaud <tv@mandriva.org> 2.0.1-5mdv2010.0
++ Revision: 433068
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 2.0.1-4mdv2009.0
++ Revision: 260119
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tv@mandriva.org> 2.0.1-3mdv2009.0
++ Revision: 248035
+- rebuild
+
+  + Tomasz Pawel Gajc <tpg@mandriva.org>
+    - fix Url
+
+* Sun Feb 17 2008 Tomasz Pawel Gajc <tpg@mandriva.org> 2.0.1-1mdv2008.1
++ Revision: 169413
+- import R-cran-ada
+
