@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.0_2
-Release:          1
+Release:          2
 Summary:          ada: an R package for stochastic boosting
 Group:            Sciences/Mathematics
 License:          GPL
