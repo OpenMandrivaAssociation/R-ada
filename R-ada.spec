@@ -2,13 +2,13 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          2.0_2
-Release:          2
+Version:          2.0.3
+Release:          1
 Summary:          ada: an R package for stochastic boosting
 Group:            Sciences/Mathematics
 License:          GPL
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_2.0-2.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/ada_2.0-3.tar.gz
 BuildArch:        noarch
 Requires:         R-core
 Requires:         R-rpart 
@@ -80,4 +80,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 * Sun Feb 17 2008 Tomasz Pawel Gajc <tpg@mandriva.org> 2.0.1-1mdv2008.1
 + Revision: 169413
 - import R-cran-ada
+
 
